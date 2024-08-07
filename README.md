@@ -1,2 +1,2 @@
-# CNN
-This is my first asssigned task using html and CSS.
+ CNN
+This is my first asssigned task using HTML and CSS.
