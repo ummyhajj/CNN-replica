@@ -1,2 +1,2 @@
 # CNN
-This is a simple repository for practice.
+This is my first asssigned task using html and CSS.
